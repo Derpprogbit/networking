@@ -1,6 +1,6 @@
 ### Network Topology & Overview
 
-![VLAN Topology](../attachments/vlan_trunking_topology.png)
+![VLAN Topology](../attachments/vlan_trunking_topolgy.png)
 
 This topology demonstrates multi-VLAN segmentation across two switches (`Switch0` and `Switch1`). Inter-switch communication is enabled via an 802.1Q trunk link configured on FastEthernet 0/1 (`Fa0/1`) on both switches, utilizing **VLAN 99** as the native VLAN.
 
