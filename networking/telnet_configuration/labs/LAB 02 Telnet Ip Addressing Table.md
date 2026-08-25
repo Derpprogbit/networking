@@ -1,5 +1,5 @@
 TELNET TOPOLOGY!
-[[telnet_topology.png]]
+![TELNET topology](../attachments/telnet_topology.png)
 
 
 Devices | Ip address | Subnetmask |		
